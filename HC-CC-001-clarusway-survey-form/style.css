@@ -15,7 +15,7 @@ header img {
   height: 100%;
 }
 main {
-  background: #5e85ac url(./background.jpg) no-repeat center;
+  background: #5e85ac url(./images/background.jpg) no-repeat center;
   background-attachment: fixed;
   background-size: cover;
   padding-top: 2.3rem;
@@ -32,7 +32,7 @@ main {
   position: relative;
 }
 #secHeader {
-  background: white url(./form-header.jpg) repeat;
+  background: white url(./images/form-header.jpg) repeat;
   padding: 25px 40px ;
   border: 2px solid white; 
   box-sizing: border-box;
